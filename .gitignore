@@ -1,0 +1,23 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de Thonny u otros IDEs
+.thonny/
+.project
+.pydevproject
+.settings/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno virtual (si llegas a usar)
+venv/
+env/
+# PyCharm / JetBrains
+.idea/
+*.iws
+out/
+cmake-build-*/
